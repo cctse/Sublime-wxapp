@@ -32,8 +32,8 @@
         {"name": "wx:else", "type": "prop", "def": "", "desc": ""},
         {"name": "wx:for", "type": "mustache", "def": "", "desc": ""},
         "wx:for-index", "wx:for-item", "wx:key",
-        "bind:tap", "bind:longpress",  "bind:longtap",  "bind:touchstart",  "bind:touchmove",  "bind:touchcancel",  "bind:touchend",  "bind:transitionend",  "bind:animationstart",  "bind:animationiteration",  "bind:animationend",  "bind:touchforcechange",
-        "catch:tap", "catch:longpress",  "catch:longtap",  "catch:touchstart",  "catch:touchmove",  "catch:touchcancel",  "catch:touchend",  "catch:transitionend",  "catch:animationstart",  "catch:animationiteration",  "catch:animationend",  "catch:touchforcechange",
+        "bindtap", "bind:longpress",  "bind:longtap",  "bind:touchstart",  "bind:touchmove",  "bind:touchcancel",  "bind:touchend",  "bind:transitionend",  "bind:animationstart",  "bind:animationiteration",  "bind:animationend",  "bind:touchforcechange",
+        "catchtap", "catch:longpress",  "catch:longtap",  "catch:touchstart",  "catch:touchmove",  "catch:touchcancel",  "catch:touchend",  "catch:transitionend",  "catch:animationstart",  "catch:animationiteration",  "catch:animationend",  "catch:touchforcechange",
         "capture-bind:tap", "capture-bind:longpress",  "capture-bind:longtap",  "capture-bind:touchstart",  "capture-bind:touchmove",  "capture-bind:touchcancel",  "capture-bind:touchend",  "capture-bind:transitionend",  "capture-bind:animationstart",  "capture-bind:animationiteration",  "capture-bind:animationend",  "capture-bind:touchforcechange",
         "capture-catch:tap", "capture-catch:longpress",  "capture-catch:longtap",   "capture-catch:touchstart",  "capture-catch:touchmove",  "capture-catch:touchcancel",  "capture-catch:touchend",  "capture-catch:transitionend",  "capture-catch:animationstart",  "capture-catch:animationiteration",  "capture-catch:animationend",  "capture-catch:touchforcechange"
     ],
